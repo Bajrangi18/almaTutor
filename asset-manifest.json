@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/almaTutor/static/css/main.ababef68.css",
-    "main.js": "/almaTutor/static/js/main.5528e713.js",
-    "static/js/787.28cb0dcd.chunk.js": "/almaTutor/static/js/787.28cb0dcd.chunk.js",
-    "static/media/comprehensive.png": "/almaTutor/static/media/comprehensive.9d4d5093262b02b94f05.png",
-    "static/media/tutorials.png": "/almaTutor/static/media/tutorials.ceb5f625dc78d863fd96.png",
-    "static/media/handson.png": "/almaTutor/static/media/handson.058c88dd6a340796a84d.png",
-    "static/media/passion.png": "/almaTutor/static/media/passion.1f4590f89bbfdd0a17fe.png",
-    "static/media/readymade.png": "/almaTutor/static/media/readymade.e88a3ff58768a0147865.png",
-    "static/media/course.png": "/almaTutor/static/media/course.ece516d30b27e25c765e.png",
-    "index.html": "/almaTutor/index.html",
-    "main.ababef68.css.map": "/almaTutor/static/css/main.ababef68.css.map",
-    "main.5528e713.js.map": "/almaTutor/static/js/main.5528e713.js.map",
-    "787.28cb0dcd.chunk.js.map": "/almaTutor/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "./static/css/main.ababef68.css",
+    "main.js": "./static/js/main.19692e82.js",
+    "static/js/787.28cb0dcd.chunk.js": "./static/js/787.28cb0dcd.chunk.js",
+    "static/media/comprehensive.png": "./static/media/comprehensive.9d4d5093262b02b94f05.png",
+    "static/media/tutorials.png": "./static/media/tutorials.ceb5f625dc78d863fd96.png",
+    "static/media/handson.png": "./static/media/handson.058c88dd6a340796a84d.png",
+    "static/media/passion.png": "./static/media/passion.1f4590f89bbfdd0a17fe.png",
+    "static/media/readymade.png": "./static/media/readymade.e88a3ff58768a0147865.png",
+    "static/media/course.png": "./static/media/course.ece516d30b27e25c765e.png",
+    "index.html": "./index.html",
+    "main.ababef68.css.map": "./static/css/main.ababef68.css.map",
+    "main.19692e82.js.map": "./static/js/main.19692e82.js.map",
+    "787.28cb0dcd.chunk.js.map": "./static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ababef68.css",
-    "static/js/main.5528e713.js"
+    "static/js/main.19692e82.js"
   ]
 }
