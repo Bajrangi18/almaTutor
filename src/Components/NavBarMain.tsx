@@ -2,12 +2,16 @@ import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
+import { useNavigate } from 'react-router-dom';
 const NavBarMain = () => {
+
+  const navigate = useNavigate();
+
   return(
     <header>
     <Navbar collapseOnSelect expand="lg" variant="dark" style={{backgroundColor:'#cddaf1'}}>
       <Container style={{fontFamily:'Work Sans',}}>
-        <Navbar.Brand href="#home" style={{fontWeight:"700",color:'#0848b9'}}>
+        <Navbar.Brand onClick={()=>navigate("/home")} href="/home"style={{fontWeight:"700",color:'#0848b9'}}>
         <img width="40" height="40" src="https://img.icons8.com/ios-glyphs/60/0848b9/tuition--v1.png" alt="tuition--v1" style={{color:"#4f4f5d"}}/> Alma-Tutor</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav">
           <img src="https://img.icons8.com/ios-filled/28/0848b9/menu--v5.png"/>

@@ -1,0 +1,162 @@
+{
+    "LED Blinker":{
+            "Project Name": "LED Blinker Project",
+            "Learning Approach": "Hands-On",
+            "Target Audience": "Beginners",
+            "description": {
+              "Components Included": "Complete kit with all necessary components",
+              "Instructions": "Step-by-step instructions for easy implementation",
+              "Online Support": "Access to online assistance for project-related queries",
+              "Concept Understanding": "Opportunity to gain a deeper understanding of circuitry and electrical concepts",
+              "Customization Options": "Explore possibilities to customize the blinker circuit design",
+              "Practical Application": "Learn about practical applications of blinking LEDs in various devices",
+              "Project Showcase": "Share completed projects and achievements"
+            },
+            "images": {
+              "image1": "https://i.ytimg.com/vi/xExKxfjs2PY/maxresdefault.jpg",
+              "image2": "https://docs.arduino.cc/static/52c238dba09c2e40b69e0612ff02ef0f/29114/circuit.png",
+              "image3": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Arduino_IDE_-_Blink.png/1230px-Arduino_IDE_-_Blink.png",
+              "image4": "https://arduinopoint.com/wp-content/uploads/Arduino-LED-Blink-1200x900.jpg"
+            }
+        },
+    "Digital Thermometer":{
+        "Project Name": "Digital Thermometer Project",
+        "Learning Approach": "Hands-On",
+        "Target Audience": "Intermediate",
+        "description": {
+          "Components Included": "Temperature sensor, microcontroller, and LCD display",
+          "Instructions": "Step-by-step instructions for building a digital thermometer",
+          "Online Support": "Access to online assistance for project-related queries",
+          "Concept Understanding": "Opportunity to learn about temperature sensing and display",
+          "Customization Options": "Explore possibilities to add features or modify the design",
+          "Practical Application": "Understand the practical use of digital thermometers",
+          "Project Showcase": "Share completed thermometer projects and achievements"
+        },
+        "images": {
+          "image1": "https://content.instructables.com/FC0/3AA4/JZSOTY2Y/FC03AA4JZSOTY2Y.png?auto=webp",
+          "image2": "data:image/jpeg;base64,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",
+          "image3": "https://i.pinimg.com/originals/ea/28/45/ea2845d925ce5ef3c09d3751ce8fb930.png",
+          "image4": "https://i.ytimg.com/vi/0esbiEey0gY/maxresdefault.jpg"
+        }
+      },
+    "Home Automation":{
+        "Project Name": "Arduino Home Automation System",
+        "Learning Approach": "Hands-On",
+        "Target Audience": "Intermediate",
+        "description": {
+          "Components Included": "Arduino board, sensors, actuators, and modules",
+          "Instructions": "Step-by-step instructions for building a home automation system",
+          "Online Support": "Access to online assistance for project-related queries",
+          "Concept Understanding": "Learn about automation, sensors, and microcontroller programming",
+          "Customization Options": "Explore possibilities to add functionalities or customize the system",
+          "Practical Application": "Understand the practical use of home automation in controlling devices",
+          "Project Showcase": "Share completed home automation projects and achievements"
+        },
+        "images": {
+          "image1": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.sparkfun.com%2Fassets%2Flearn_tutorials%2F3%2F1%2F0%2FArduino_circuit_01_1.png&tbnid=rCTuvkfyCPQMnM&vet=12ahUKEwj48re8h5r_AhUHk2MGHeZvBPsQMygTegUIARCJAg..i&imgrefurl=https%3A%2F%2Flearn.sparkfun.com%2Ftutorials%2Fsik-experiment-guide-for-arduino---v32%2Fexperiment-1-blinking-an-led&docid=pjaSyr5KYLjrDM&w=1473&h=1206&q=led%20blinker%20arduino&ved=2ahUKEwj48re8h5r_AhUHk2MGHeZvBPsQMygTegUIARCJAg",
+          "image2": "https://www.google.com/url?sa=i&url=https%3A%2F%2Farduinopoint.com%2Farduino-led-blink%2F&psig=AOvVaw38z6X-s_IRLUeN7fTactd3&ust=1685433572743000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCPsr2Hmv8CFQAAAAAdAAAAABAE",
+          "image3": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.javatpoint.com%2Farduino-blinking-an-led&psig=AOvVaw1b4zVKGbQarEPILjsJ06GA&ust=1685433656318000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNC2leWHmv8CFQAAAAAdAAAAABAE",
+          "image4": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxExKxfjs2PY&psig=AOvVaw1b4zVKGbQarEPILjsJ06GA&ust=1685433656318000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNC2leWHmv8CFQAAAAAdAAAAABAI"
+        }
+      },
+      "Audio Amplifier":{
+        "Project Name": "Audio Amplifier Project",
+        "Learning Approach": "Hands-On",
+        "Target Audience": "Intermediate",
+        "description": {
+          "Components Included": "Audio amplifier circuit components and speaker",
+          "Instructions": "Step-by-step instructions for building an audio amplifier",
+          "Online Support": "Access to online assistance for project-related queries",
+          "Concept Understanding": "Opportunity to learn about amplification and audio circuits",
+          "Customization Options": "Explore possibilities to modify the amplifier's characteristics",
+          "Practical Application": "Understand the practical use of audio amplifiers in sound systems",
+          "Project Showcase": "Share completed audio amplifier projects and achievements"
+        },
+        "images": {
+          "image1": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.sparkfun.com%2Fassets%2Flearn_tutorials%2F3%2F1%2F0%2FArduino_circuit_01_1.png&tbnid=rCTuvkfyCPQMnM&vet=12ahUKEwj48re8h5r_AhUHk2MGHeZvBPsQMygTegUIARCJAg..i&imgrefurl=https%3A%2F%2Flearn.sparkfun.com%2Ftutorials%2Fsik-experiment-guide-for-arduino---v32%2Fexperiment-1-blinking-an-led&docid=pjaSyr5KYLjrDM&w=1473&h=1206&q=led%20blinker%20arduino&ved=2ahUKEwj48re8h5r_AhUHk2MGHeZvBPsQMygTegUIARCJAg",
+          "image2": "https://www.google.com/url?sa=i&url=https%3A%2F%2Farduinopoint.com%2Farduino-led-blink%2F&psig=AOvVaw38z6X-s_IRLUeN7fTactd3&ust=1685433572743000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCPsr2Hmv8CFQAAAAAdAAAAABAE",
+          "image3": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.javatpoint.com%2Farduino-blinking-an-led&psig=AOvVaw1b4zVKGbQarEPILjsJ06GA&ust=1685433656318000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNC2leWHmv8CFQAAAAAdAAAAABAE",
+          "image4": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxExKxfjs2PY&psig=AOvVaw1b4zVKGbQarEPILjsJ06GA&ust=1685433656318000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNC2leWHmv8CFQAAAAAdAAAAABAI"
+        }
+      },
+      "Weather Project":{
+        "Project Name": "Wireless Weather Station Project",
+        "Learning Approach": "Hands-On",
+        "Target Audience": "Intermediate",
+        "description": {
+          "Components Included": "Sensors, microcontroller, wireless module, and display",
+          "Instructions": "Step-by-step instructions for building a wireless weather station",
+          "Online Support": "Access to online assistance for project-related queries",
+          "Concept Understanding": "Learn about weather sensing, wireless communication, and data display",
+          "Customization Options": "Explore possibilities to add additional sensors or features",
+          "Practical Application": "Understand the practical use of weather stations in collecting and monitoring weather data",
+          "Project Showcase": "Share completed weather station projects and achievements"
+        },
+        "images": {
+          "image1": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.sparkfun.com%2Fassets%2Flearn_tutorials%2F3%2F1%2F0%2FArduino_circuit_01_1.png&tbnid=rCTuvkfyCPQMnM&vet=12ahUKEwj48re8h5r_AhUHk2MGHeZvBPsQMygTegUIARCJAg..i&imgrefurl=https%3A%2F%2Flearn.sparkfun.com%2Ftutorials%2Fsik-experiment-guide-for-arduino---v32%2Fexperiment-1-blinking-an-led&docid=pjaSyr5KYLjrDM&w=1473&h=1206&q=led%20blinker%20arduino&ved=2ahUKEwj48re8h5r_AhUHk2MGHeZvBPsQMygTegUIARCJAg",
+          "image2": "https://www.google.com/url?sa=i&url=https%3A%2F%2Farduinopoint.com%2Farduino-led-blink%2F&psig=AOvVaw38z6X-s_IRLUeN7fTactd3&ust=1685433572743000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCPsr2Hmv8CFQAAAAAdAAAAABAE",
+          "image3": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.javatpoint.com%2Farduino-blinking-an-led&psig=AOvVaw1b4zVKGbQarEPILjsJ06GA&ust=1685433656318000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNC2leWHmv8CFQAAAAAdAAAAABAE",
+          "image4": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxExKxfjs2PY&psig=AOvVaw1b4zVKGbQarEPILjsJ06GA&ust=1685433656318000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNC2leWHmv8CFQAAAAAdAAAAABAI"
+        }
+      },
+      "Line Follower":{
+        "Project Name": "Line Following Robot Project",
+        "Learning Approach": "Hands-On",
+        "Target Audience": "Intermediate",
+        "description": {
+          "Components Included": "Robot chassis, motors, line sensors, and microcontroller",
+          "Instructions": "Step-by-step instructions for building a line following robot",
+          "Online Support": "Access to online assistance for project-related queries",
+          "Concept Understanding": "Opportunity to learn about robotics, sensor integration, and programming",
+          "Customization Options": "Explore possibilities to enhance robot capabilities or design",
+          "Practical Application": "Understand the practical use of line-following robots in automation",
+          "Project Showcase": "Share completed line following robot projects and achievements"
+          },
+          "images": {
+            "image1": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.sparkfun.com%2Fassets%2Flearn_tutorials%2F3%2F1%2F0%2FArduino_circuit_01_1.png&tbnid=rCTuvkfyCPQMnM&vet=12ahUKEwj48re8h5r_AhUHk2MGHeZvBPsQMygTegUIARCJAg..i&imgrefurl=https%3A%2F%2Flearn.sparkfun.com%2Ftutorials%2Fsik-experiment-guide-for-arduino---v32%2Fexperiment-1-blinking-an-led&docid=pjaSyr5KYLjrDM&w=1473&h=1206&q=led%20blinker%20arduino&ved=2ahUKEwj48re8h5r_AhUHk2MGHeZvBPsQMygTegUIARCJAg",
+            "image2": "https://www.google.com/url?sa=i&url=https%3A%2F%2Farduinopoint.com%2Farduino-led-blink%2F&psig=AOvVaw38z6X-s_IRLUeN7fTactd3&ust=1685433572743000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCPsr2Hmv8CFQAAAAAdAAAAABAE",
+            "image3": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.javatpoint.com%2Farduino-blinking-an-led&psig=AOvVaw1b4zVKGbQarEPILjsJ06GA&ust=1685433656318000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNC2leWHmv8CFQAAAAAdAAAAABAE",
+            "image4": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxExKxfjs2PY&psig=AOvVaw1b4zVKGbQarEPILjsJ06GA&ust=1685433656318000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNC2leWHmv8CFQAAAAAdAAAAABAI"
+          }
+        },
+        "Digital Oscilloscope":{
+            "Project Name": "Digital Oscilloscope Project",
+            "Learning Approach": "Hands-On",
+            "Target Audience": "Advanced",
+            "description": {
+              "Components Included": "FPGA or microcontroller, display, and input circuitry",
+              "Instructions": "Step-by-step instructions for building a digital oscilloscope",
+              "Online Support": "Access to online assistance for project-related queries",
+              "Concept Understanding": "Opportunity to learn about waveform capture, display, and signal processing",
+              "Customization Options": "Explore possibilities to add features or improve performance",
+              "Practical Application": "Understand the practical use of oscilloscopes in signal analysis",
+              "Project Showcase": "Share completed digital oscilloscope projects and achievements"
+        },
+        "images": {
+          "image1": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.sparkfun.com%2Fassets%2Flearn_tutorials%2F3%2F1%2F0%2FArduino_circuit_01_1.png&tbnid=rCTuvkfyCPQMnM&vet=12ahUKEwj48re8h5r_AhUHk2MGHeZvBPsQMygTegUIARCJAg..i&imgrefurl=https%3A%2F%2Flearn.sparkfun.com%2Ftutorials%2Fsik-experiment-guide-for-arduino---v32%2Fexperiment-1-blinking-an-led&docid=pjaSyr5KYLjrDM&w=1473&h=1206&q=led%20blinker%20arduino&ved=2ahUKEwj48re8h5r_AhUHk2MGHeZvBPsQMygTegUIARCJAg",
+          "image2": "https://www.google.com/url?sa=i&url=https%3A%2F%2Farduinopoint.com%2Farduino-led-blink%2F&psig=AOvVaw38z6X-s_IRLUeN7fTactd3&ust=1685433572743000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCPsr2Hmv8CFQAAAAAdAAAAABAE",
+          "image3": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.javatpoint.com%2Farduino-blinking-an-led&psig=AOvVaw1b4zVKGbQarEPILjsJ06GA&ust=1685433656318000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNC2leWHmv8CFQAAAAAdAAAAABAE",
+          "image4": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxExKxfjs2PY&psig=AOvVaw1b4zVKGbQarEPILjsJ06GA&ust=1685433656318000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNC2leWHmv8CFQAAAAAdAAAAABAI"
+        }
+    },
+    "RFID Access":{
+        "Project Name": "RFID-based Access Control System Project",
+        "Learning Approach": "Hands-On",
+        "Target Audience": "Advanced",
+        "description": {
+          "Components Included": "RFID reader, microcontroller, electronic lock, and RFID tags",
+          "Instructions": "Step-by-step instructions for building an RFID-based access control system",
+          "Online Support": "Access to online assistance for project-related queries",
+          "Concept Understanding": "Opportunity to learn about RFID technology, authentication, and control systems",
+          "Customization Options": "Explore possibilities to enhance security or integrate additional features",
+          "Practical Application": "Understand the practical use of access control systems in securing areas",
+          "Project Showcase": "Share completed access control system projects and achievements"
+        },
+        "images": {
+          "image1": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.sparkfun.com%2Fassets%2Flearn_tutorials%2F3%2F1%2F0%2FArduino_circuit_01_1.png&tbnid=rCTuvkfyCPQMnM&vet=12ahUKEwj48re8h5r_AhUHk2MGHeZvBPsQMygTegUIARCJAg..i&imgrefurl=https%3A%2F%2Flearn.sparkfun.com%2Ftutorials%2Fsik-experiment-guide-for-arduino---v32%2Fexperiment-1-blinking-an-led&docid=pjaSyr5KYLjrDM&w=1473&h=1206&q=led%20blinker%20arduino&ved=2ahUKEwj48re8h5r_AhUHk2MGHeZvBPsQMygTegUIARCJAg",
+          "image2": "https://www.google.com/url?sa=i&url=https%3A%2F%2Farduinopoint.com%2Farduino-led-blink%2F&psig=AOvVaw38z6X-s_IRLUeN7fTactd3&ust=1685433572743000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCPsr2Hmv8CFQAAAAAdAAAAABAE",
+          "image3": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.javatpoint.com%2Farduino-blinking-an-led&psig=AOvVaw1b4zVKGbQarEPILjsJ06GA&ust=1685433656318000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNC2leWHmv8CFQAAAAAdAAAAABAE",
+          "image4": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxExKxfjs2PY&psig=AOvVaw1b4zVKGbQarEPILjsJ06GA&ust=1685433656318000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNC2leWHmv8CFQAAAAAdAAAAABAI"
+        }
+      }
+}
